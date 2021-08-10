@@ -1,0 +1,15 @@
+
+#home{
+    position: relative;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+#link{
+    text-decoration: none;
+    color: green;
+}
+embed{
+  width: 100%;
+  height: 100vh;
+
+}

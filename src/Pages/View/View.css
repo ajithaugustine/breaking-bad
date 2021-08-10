@@ -1,0 +1,55 @@
+#home{
+    position: relative;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+#link{
+    text-decoration: none;
+    color: green;
+}
+h3{
+    margin-top: 10px;
+    text-align: center;
+    text-shadow: 1px 1px 4px white;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+#quote{
+    margin-top: 5px;
+    text-align: center;
+    text-shadow: 1px 1px 4px white;
+    font-family: cursive;
+}
+.viewchar{
+    padding:10px;
+    width: 80%;
+    margin: auto;
+    box-shadow: 1px 2px 4px black;
+    display: flex;
+}
+
+.char{
+    padding: 5px;
+    flex:1
+}
+.char img{
+max-height: 300px;
+max-width: 200px;
+}
+.charinfo{
+    flex: 3;
+    margin: 10px;
+    padding: 10px;
+   
+
+}
+.charinfo .tags{
+   display: flex;
+
+}
+.charinfo .tags h6{
+    flex: 2;
+}
+.charinfo .tags p{
+    flex: 3;
+}
